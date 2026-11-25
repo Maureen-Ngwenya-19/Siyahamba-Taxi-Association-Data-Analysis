@@ -1,2 +1,2 @@
 # Siyahamba-Taxi-Association-Data-Analysis
-data analysis 
+A Python-based data analysis project investigating the operational performance of the fictional Siyahamba Taxi Association across five Gauteng taxi ranks: Bree, Noord, Bara, Mabopane, and Germiston. Using six months of trip-level data (July–December 2025), the project applies NumPy, Pandas, and Matplotlib to analyse passenger numbers, trip revenue, vehicle performance, fuel cost estimates, distance travelled, and peak-hour operations. Data visualisations are used to identify trends and provide insights to support fleet allocation, driver scheduling, and operational decision-making.
